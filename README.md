@@ -1,4 +1,4 @@
-# vuego
+# Learn Vue.js
 
 > A Vue.js project
 
