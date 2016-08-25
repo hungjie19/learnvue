@@ -22,11 +22,11 @@
 <script>
 import Vue from 'vue'
 import navDefaultSlot from '../nav/nav_default_slot.vue'
+import optionMenuDefault from '../menu/option_menu_default.vue'
 import contactHeader from '../component/contact_header.vue'
 import contactContant from '../component/contact_contant.vue'
 import contactFooter from '../component/contact_footer.vue'
 import trySlot from '../component/try_slot.vue'
-import optionMenuDefault from '../menu/option_menu_default.vue'
 
 export default {
   components: { 
